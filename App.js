@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Pamela</Text>
       <Text>Ysabelli</Text>
+      <Text>Novo comit clone</Text>
          <Text>05/03/2024</Text>
       <StatusBar style="auto" />
     </View>
