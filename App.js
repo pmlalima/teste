@@ -8,6 +8,7 @@ export default function App() {
       <Text>Ysabelli</Text>
       <Text>Novo comit clone</Text>
          <Text>05/03/2024</Text>
+         <Text>clone</Text>
       <StatusBar style="auto" />
     </View>
   );
